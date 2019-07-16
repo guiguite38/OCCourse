@@ -1,1 +1,3 @@
-Je fais une modif.
+﻿Je fais une modif.
+
+C'est bon, j'ai résolu le conflit !
